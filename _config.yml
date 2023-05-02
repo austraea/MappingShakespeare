@@ -122,11 +122,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: About
-  url: https://austrae.github.io/MappingShakespeare/
+  url: https://austraea.github.io/MappingShakespeare/
 - title: Maps
-  url: https://austrae.github.io/MappingShakespeare/maps
+  url: https://austraea.github.io/MappingShakespeare/maps
 - title: Bibliography
-  url: https://austrae.github.io/MappingShakespeare/bibliography
+  url: https://austraea.github.io/MappingShakespeare/bibliography
 
 navigation_footer:
 - title: Created by David Darnes
