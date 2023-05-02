@@ -129,7 +129,7 @@ navigation_header:
   url: https://austraea.github.io/MappingShakespeare/bibliography
 
 navigation_footer:
-- title: &copy; Hyekyung Jung, 2023. Recreated by using [Jekyll](https://jekyllrb.com/) and [Alembic](https://github.com/daviddarnes/alembic) theme
+- title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
