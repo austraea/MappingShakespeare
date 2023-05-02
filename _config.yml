@@ -93,8 +93,8 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Home" # Site name or title, also used in jekyll-seo-tag
-logo: # Site logo, also used in jekyll-seo-tag
+title: "&copy; Hyekyung Jung, 2023" # Site name or title, also used in jekyll-seo-tag
+logo: "Home" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://github.com/austraea/MappingShakespeare" # Site url, also used in jekyll-seo-tag
 baseurl: "https://austraea.github.io"
@@ -129,8 +129,8 @@ navigation_header:
   url: https://austraea.github.io/MappingShakespeare/bibliography
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: This Website was created using Jekyll and Alembic theme.
+  url: https://github.com/daviddarnes
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
