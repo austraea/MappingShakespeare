@@ -43,7 +43,7 @@ Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 
 Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/findaid/willfilm.html)
 
-[*Shakespeare Performance in Asia*](*APIA*)(http://web.mit.edu/shakespeare/asia/)
+[*Shakespeare Performance in Asia*(*APIA*)](http://web.mit.edu/shakespeare/asia/)
 
 [*Suzuki Company of Togo*](https://www.scot-suzukicompany.com/en/): This website provides a chronology of theatrical adaptation of Shakespeare, directed by Suzuki Tadashi, in English.
 
