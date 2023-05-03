@@ -5,8 +5,6 @@ feature_text: |
 ---
 
 
-## 1. Bibliography
-
 Bodenhamer, David J., et al. *The Spatial Humanities: GIS and the Future of Humanities Scholarship,* Indiana University Press, 2010.
 
 Cooper, David, et al. *Literary Mapping in the Digital Age,* Routledge, 2016. miami-primo.com,
