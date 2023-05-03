@@ -34,12 +34,21 @@ Warwick, Claire. “Building Theories or Theories of Building? A Tension at the 
 Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 <br>
 
-### <span style="color: indianred;">2. Archives of Shakespearean performance and adaptation</span>
+## 2. Archives of Shakespearean performance and adaptation
 
 [*MIT Global Shakespeare Project*](http://globalshakespeares.org/)
+
+[*Ninagawa Company*](https://www.ninagawayukio.com/)
+: This website provides a chronology of theatrical adaptation of Shakespeare, directed by Ninagawa Yukio, in Japanese.
+
+Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/findaid/willfilm.html)
+
+[*Shakespeare Performance in Asia*](*APIA*)(http://web.mit.edu/shakespeare/asia/)
+
+[*Suzuki Company of Togo*](https://www.scot-suzukicompany.com/en/)
+: This website provides a chronology of theatrical adaptation of Shakespeare, directed by Suzuki Tadashi, in English.
 
 [*The Asian Shakespeare Intercultural Archive*](http://a-s-i-a-web.org/en/home.php)
 
 [*World Shakespeare Bibliography Online*](https://www.worldshakesbib.org)
 
-Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/findaid/willfilm.html)
