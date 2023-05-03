@@ -36,7 +36,7 @@ Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 
 ### <span style="color: indianred;">2. Archives of Shakespearean performance and adaptation</span>
 
-[*MIT Global Shakespeare Project*](http://globalshakespeares.org/): provide
+[*MIT Global Shakespeare Project*](http://globalshakespeares.org/)
 
 [*The Asian Shakespeare Intercultural Archive*](http://a-s-i-a-web.org/en/home.php)
 
