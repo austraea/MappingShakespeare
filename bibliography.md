@@ -4,6 +4,9 @@ feature_text: |
   ## Bibliography
 ---
 
+Here are the lists of bibliographic information for this project and archives about Shakespearean adaptation.
+
+### <span style="color: indianred;">1. Bibliography</span>
 
 Bodenhamer, David J., et al. *The Spatial Humanities: GIS and the Future of Humanities Scholarship,* Indiana University Press, 2010.
 
@@ -31,7 +34,7 @@ Warwick, Claire. “Building Theories or Theories of Building? A Tension at the 
 Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 <br>
 
-## 2. Archives of Shakespearean performance and adaptation
+### <span style="color: indianred;">2. Archives of Shakespearean performance and adaptation</span>
 
 [*Shakespeare Performance in Asia*](*APIA*)(http://web.mit.edu/shakespeare/asia/)
 
