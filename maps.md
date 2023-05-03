@@ -4,6 +4,8 @@ feature_text: |
   ## Maps
 ---
 
+(a brief introduction)
+
 ### <span style="color: indianred;">Reception of Shakespeare in Asia</span>
 
 Shakespeare's plays began to be accepted, translated, read, and performed in Asia, in Japan (), Korea (), and China (). The different routes for each country's reception of Shakespeare are associated with each of their historical, social, and political circumstances, especially, the rise of colonialism in Asian region. The map presented below shows how Shakespeare's works were imported and accepted to each Asian country and the international relationships between not only Britain and Asian countries but also between/among Asian countries.  
@@ -28,5 +30,6 @@ Japan's reception of Shakespeare brought about not only cultural revolution and 
 
 
 #### <span style="color: indianred;">Shakespeare in China</span>
+<br>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=18u7aPyW27i93N-XyFIkJsSrmyzTivO4&ehbc=2E312F" width="640" height="480"></iframe>
