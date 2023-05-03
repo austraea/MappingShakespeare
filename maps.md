@@ -24,12 +24,18 @@ Japan was the first Asian country to accept Shakespeare in the nineteenth centur
 
 Japan's reception of Shakespeare brought about not only cultural revolution and westernization in Japanese society but also impacted other Asian countries under Japan's colonialist movement. In 1903, *Othello* was performed as the outpost of the colonial Japanese empire in Taiwan, and *Hamlet* was performed in Korea by a Japanese theatre company in 1909.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1qepxpqgc2XCcoPHN5efxE5bCkDw77J4&ehbc=2E312F" width="640" height="480"></iframe>
+<br>
+
 #### <span style="color: indianred;">Shakespeare in Korea</span>
 
 ![Korea in 1920s](/assets/img/Historical Map of Korea.jpg)
 
 
 #### <span style="color: indianred;">Shakespeare in China</span>
+<br
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1wFiShFonynnnKNLVSYb9eluTfNa7E04&ehbc=2E312F" width="640" height="480"></iframe>
 <br>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18u7aPyW27i93N-XyFIkJsSrmyzTivO4&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ae1roMRX9iVlg6zw-SJYSLKvLBIlG-M&ehbc=2E312F" width="640" height="480"></iframe>
