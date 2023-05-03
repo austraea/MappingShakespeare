@@ -1,6 +1,6 @@
 ---
-title: 
-feature_text: |
+title: Bibliography
+feature_text:
 ---
 
 ## 1. Bibliography 
