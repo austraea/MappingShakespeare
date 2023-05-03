@@ -4,138 +4,29 @@ feature_text: |
   ## Maps
 ---
 
-# Heading 1
+### <span style="color: indianred;">Reception of Shakespeare in Asia</span>
 
-## Heading 2
+Shakespeare's plays began to be accepted, translated, read, and performed in Asia, in Japan (), Korea (), and China (). The different routes for each country's reception of Shakespeare are associated with each of their historical, social, and political circumstances, especially, the rise of colonialism in Asian region. The map presented below shows how Shakespeare's works were imported and accepted to each Asian country and the international relationships between not only Britain and Asian countries but also between/among Asian countries.  
+<br>
 
-### Heading 3
+<iframe src="https://www.google.com/maps/d/embed?mid=1T5idmBurEaoomhBkTD-6K988U-x4C0I&ehbc=2E312F" width="640" height="480"></iframe>
+<br>
 
-#### Heading 4
+As the lines connected between specific countries, Japan and Korea, and Japan and Taiwan, Japan played a crucial role in accepting Shakespeare's works and (re)introducing them to other Asian countries. However, this map presents the contemporary international politics and the movements of cultures within this special historical and political context.
 
-##### Heading 5
+#### <span style="color: indianred;">Shakespeare in Japan and its colonies</span>
 
-###### Heading 6
+Japan was the first Asian country to accept Shakespeare in the nineteenth century. Shakespeare was firstly mentioned in a Dutch translation of an English grammar book in 1841. In Japan, Shakespeare's plays were accepted for its westernization movement, and linguistic and cultural reform during Meiji Restoration. Shakespeare's plays were introduced and performed in front of public audiences in 1866 and 1869 through a form of public reading in Yokohama, one of the port cities in Japan, where the excerpt from *A Midsummer Night's Dream* and *Romeo and Juliet* were read. Later, a scene from The *Taming of the Shrew* was performed in English in the Gaiety Theatre in Yokohama in 1879.
 
-<small>A small element</small>
+(a map of Yokohama in 1860s)
 
-[A link](https://david.darn.es "A link")
+Japan's reception of Shakespeare brought about not only cultural revolution and westernization in Japanese society but also impacted other Asian countries under Japan's colonialist movement. In 1903, *Othello* was performed as the outpost of the colonial Japanese empire in Taiwan, and *Hamlet* was performed in Korea by a Japanese theatre company in 1909.
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+#### <span style="color: indianred;">Shakespeare in Korea</span>
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
-
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
+![Korea in 1920s](/assets/img/Historical Map of Korea.jpg)
 
 
-### Image includes
+#### <span style="color: indianred;">Shakespeare in China</span>
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
-
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18u7aPyW27i93N-XyFIkJsSrmyzTivO4&ehbc=2E312F" width="640" height="480"></iframe>
