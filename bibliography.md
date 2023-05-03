@@ -1,7 +1,6 @@
 ---
 title: 
 feature_text: |
-  ## Bibliography
 ---
 
 ## 1. Bibliography 
