@@ -35,18 +35,17 @@ Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 <br>
 
 ## 2. Archives of Shakespearean performance and adaptation
+<br>
 
 [*MIT Global Shakespeare Project*](http://globalshakespeares.org/)
 
-[*Ninagawa Company*](https://www.ninagawayukio.com/)
-: This website provides a chronology of theatrical adaptation of Shakespeare, directed by Ninagawa Yukio, in Japanese.
+[*Ninagawa Company*](https://www.ninagawayukio.com/): This website provides a chronology of theatrical adaptation of Shakespeare, directed by Ninagawa Yukio, in Japanese.
 
 Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/findaid/willfilm.html)
 
 [*Shakespeare Performance in Asia*](*APIA*)(http://web.mit.edu/shakespeare/asia/)
 
-[*Suzuki Company of Togo*](https://www.scot-suzukicompany.com/en/)
-: This website provides a chronology of theatrical adaptation of Shakespeare, directed by Suzuki Tadashi, in English.
+[*Suzuki Company of Togo*](https://www.scot-suzukicompany.com/en/): This website provides a chronology of theatrical adaptation of Shakespeare, directed by Suzuki Tadashi, in English.
 
 [*The Asian Shakespeare Intercultural Archive*](http://a-s-i-a-web.org/en/home.php)
 
