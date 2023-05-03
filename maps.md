@@ -36,15 +36,15 @@ This regional-focused tendency began to change, and producers’ creative and im
 
 Here are cultural maps showing how new adaptations have been world-widely accepted. 
 
-1. *Kingdom of Desire,* directed by Hsing-Kuo Wu (Taiwan, 1986-2010)
+*Kingdom of Desire,* directed by Hsing-Kuo Wu (Taiwan, 1986-2010)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ae1roMRX9iVlg6zw-SJYSLKvLBIlG-M&ehbc=2E312F" width="640" height="480"></iframe>
 <br>
 
-2. *Romeo and Juliet,* directed by Tae-suk Oh (South Korea, 1996- )
+*Romeo and Juliet,* directed by Tae-suk Oh (South Korea, 1996- )
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1J_Ng4vr-v9Yaz6YUiDf_AvtXKoZGPqw&ehbc=2E312F" width="640" height="480"></iframe>
 <br>
 
-3. *A Midsummer Night’s Dream,* directed by Jung-Ung Yang (South Korea, 2009- )
+*A Midsummer Night’s Dream,* directed by Jung-Ung Yang (South Korea, 2009- )
  <iframe rc="https://www.google.com/maps/d/u/0/embed?mid=1wFiShFonynnnKNLVSYb9eluTfNa7E04&ehbc=2E312F" width="640" height="480"></iframe>
 <br>
 
