@@ -4,6 +4,7 @@ feature_text: |
   ## Bibliography
 ---
 
+
 ## 1. Bibliography
 
 Bodenhamer, David J., et al. *The Spatial Humanities: GIS and the Future of Humanities Scholarship,* Indiana University Press, 2010.
