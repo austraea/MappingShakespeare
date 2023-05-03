@@ -27,7 +27,7 @@ Minami, Ryuta, and Poonam Trivedi. *Re-Playing Shakespeare in Asia,* Routledge, 
 
 Presner, Todd, and David Shepard. “Mapping the Geospatial Turn.” *A New Companion to Digital Humanities,* John Wiley & Sons, Ltd, 2015, pp. 199–212. miami-primo.com, https://doi.org/10.1002/9781118680605.ch14.
 
-Sen, Amartya. “How to judge globalism.” *The American Prospect,* Princeton, 2002, p. A2-A6.
+Sen, Amartya. “How to judge globalism.” *The American Prospect,* Princeton, 2002, pp. A2-A6.
 
 Warwick, Claire. “Building Theories or Theories of Building? A Tension at the Heart of Digital Humanities.” *A New Companion to Digital Humanities,* John Wiley & Sons, Ltd, 2015, pp. 538–52. miami-primo.com, https://doi.org/10.1002/9781118680605.ch37.
 
