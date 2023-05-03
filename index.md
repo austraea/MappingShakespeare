@@ -2,7 +2,6 @@
 title: 
 feature_text: |
   ## Mapping Shakespearean Adaptation in Asia
-  excerpt: 
 ---
 
 This project aims to create a digital map presenting various modes of Asian adaptation of Shakespeare, particularly in the Far East. Since the first Asian-language performances of Shakespeare took place in the nineteenth century within the context of modernization, Shakespeare has become one of East Asia's most frequently performed playwrights, and Shakespearean adaptation has flourished in Asia. Many stage and movie directors have employed Shakespeare’s plays and motifs to create their own artwork, mostly with traditional Asian colors. However, in spite of these cultural phenomena, as many Shakespeare scholars' have pointed out, Shakespearean adaptation in Asia has been less focused and paid attention to in academia. As a result, Asia still remains marginalized in the field of Shakespeare (performance) studies. Therefore, this project pursues (re)direction and expansion of perspective on Asian adaptation of Shakespeare in the globalizing world by bringing more attention to marginalized Asia in the dominating literature.
