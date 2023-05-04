@@ -10,7 +10,7 @@ Here are the lists of bibliographic information for this project and archives ab
 
 Bodenhamer, David J., et al. *The Spatial Humanities: GIS and the Future of Humanities Scholarship,* Indiana University Press, 2010.
 
-[Cooper, David, et al. *Literary Mapping in the Digital Age,* Routledge, 2016.](http://www.miami.eblib.com/EBLWeb/patron/?target=patron&extendedid=P_4530518_0)
+Cooper, David, et al. *Literary Mapping in the Digital Age,* Routledge, 2016.
 
 [Gil, Alex. "Design for Diversity: The Case of Ed," *The Design for Diversity Learning Toolkit,* 20 June 2019.](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)
 
@@ -40,7 +40,7 @@ Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 
 [*Ninagawa Company*](https://www.ninagawayukio.com/): This website provides a chronology of theatrical adaptation of Shakespeare, directed by Ninagawa Yukio, in Japanese.
 
-Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/findaid/willfilm.html)
+Library of Congress, [*Shakespeare on Film and Television*](https://www.loc.gov/rr/mopic/)
 
 [*Shakespeare Performance in Asia*(*APIA*)](http://web.mit.edu/shakespeare/asia/)
 
