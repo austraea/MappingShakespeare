@@ -10,7 +10,7 @@ feature_text: |
 
 Shakespeare's plays began to be accepted, translated, read, and performed in Asia, Japan (1885), China (1913), and Korea (1925). The different routes for each country's reception of Shakespeare are associated with their own historical, social, and political circumstances, especially, the modernization movements and the rise of colonialism in the Asian region. The map presented below shows how Shakespeare's works were introduced and accepted by each Asian country and the international relationships between not only Britain and Asian countries but also between/among Asian countries.  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1T5idmBurEaoomhBkTD-6K988U-x4C0I&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lGmDPm_bT9K-w_LRRtxes0i5o956j-4&ehbc=2E312F" width="640" height="480"></iframe>
 
 Japan was the first Asian country to accept Shakespeare in the nineteenth century. Shakespeare was firstly mentioned in a Dutch translation of an English grammar book in 1841 and introduced in 1868 as one of the threads for modernization movements during the Meiji period (1868-1912). Shakespeare's plays were performed in front of public audiences in 1866 and 1869 through public reading in Yokohama, one of the port cities in Japan, where the excerpt from *A Midsummer Night's Dream* and *Romeo and Juliet* were read. Later, a scene from The *Taming of the Shrew* was performed in English in the Gaiety Theatre in Yokohama in 1879.
 
