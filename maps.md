@@ -4,7 +4,7 @@ feature_text: |
   ## Maps
 ---
 
-“GIS allows data from different formats to be integrated and enables humanities scholars to discover the relationship of ‘memory, artifact, and experience that exists in a particular space’ and across time” (Bodenhamer viii).[^1]
+*“GIS allows data from different formats to be integrated and enables humanities scholars to discover the relationship of ‘memory, artifact, and experience that exists in a particular space’ and across time” (Bodenhamer viii).*[^1]
 
 ### <span style="color: indianred;">Reception of Shakespeare in Asia</span>
 
