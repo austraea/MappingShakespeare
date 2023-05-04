@@ -14,15 +14,11 @@ Shakespeare's plays began to be accepted, translated, read, and performed in Asi
 
 Japan was the first Asian country to accept Shakespeare in the nineteenth century. Shakespeare was firstly mentioned in a Dutch translation of an English grammar book in 1841 and introduced in 1868 as one of the threads for modernization movements during the Meiji period (1868-1912). Shakespeare's plays were performed in front of public audiences in 1866 and 1869 through public reading in Yokohama, one of the port cities in Japan, where the excerpt from *A Midsummer Night's Dream* and *Romeo and Juliet* were read. Later, a scene from The *Taming of the Shrew* was performed in English in the Gaiety Theatre in Yokohama in 1879.
 
-![Yokohama 1868](assets/Yokohama 1868.png)
-
 As the map shows, Japan's reception of Shakespeare brought about not only cultural revolution and westernization in Japanese society but also impacted other Asian countries under Japan's colonialist movement. In 1903, *Othello* was performed as the outpost of the Japanese empire in Taiwan, and *Hamlet* was conducted in Korea by a Japanese theatre company in 1909. It shows Japan's role as a cultural agency and its political status in Asia. Japan, once a geographically marginalized and politically turbulent country in Asia, established one powerful unified government and became a nation politically and culturally powerful enough to reintroduce what it had accepted to its nearby countries.
 
 Shakespeare was mentioned earlier in China, during Opium Wars (1839-42), in Lin Zexu's *Annals of the Four Continent* and introduced into Hong Kong's school curriculum in 1882. The First Chinese-language performance of Shakespeare took place in Shanghai Eastern Girl's Highschool, where *Woman Lawyer*, an adaptation of *The Merchant of Venice* was staged in 1913. From 1927, cinematic Shakespearean adaptations, *The Woman Lawyer* (*Merchant of Venice*) and *A Spray of Plum Blossom* (*The Two Gentlemen from Verona*), were produced. 
 
 The introduction of Shakespeare in Korea began with the Japan-Korea annexation and Japanese domination over the Korean peninsular. While the first Korean-language production of Shakespeare, *Julius Caesar* was performed in 1925, under Japanese colonization, Shakespeare's works were rarely performed compared to the former two countries. However, Korea becomes the place with prolific "Koreanized" Shakespearean adaptations in the stage-play and film modes. 
-
-![Korea 1920s](assets/Korea 1920s.png)
 
 ## <span style="color: indianred;">Reimagined and recreated Shakespeare in Asia</span>
 
