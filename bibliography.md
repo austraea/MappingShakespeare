@@ -34,8 +34,8 @@ Warwick, Claire. “Building Theories or Theories of Building? A Tension at the 
 Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.
 <br>
 
-## 2. Archives of Shakespearean performance and adaptation
-<br>
+
+## <span style="color: indianred;">2. Archives of Shakespearean performance and adaptation</span
 
 [*MIT Global Shakespeare Project*](http://globalshakespeares.org/)
 
