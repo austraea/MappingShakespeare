@@ -20,7 +20,7 @@ Shakespeare was mentioned earlier in China, during Opium Wars (1839-42), in Lin 
 
 The introduction of Shakespeare in Korea began with the Japan-Korea annexation and Japanese domination over the Korean peninsular. While the first Korean-language production of Shakespeare, *Julius Caesar* was performed in 1925, under Japanese colonization, Shakespeare's works were rarely performed compared to the former two countries. However, Korea becomes the place with prolific "Koreanized" Shakespearean adaptations in the stage-play and film modes. 
 
-## <span style="color: indianred;">Reimagined and recreated Shakespeare in Asia</span>
+### <span style="color: indianred;">Reimagined and recreated Shakespeare in Asia</span>
 
 [*A Chronology of Shakespeare in East Asia* Dataset](https://docs.google.com/spreadsheets/d/1UMx7FHDgvnNnnRtIyHpHRS2jcCpxUY5VQKmhOU8icj4/edit#gid=0)
   
