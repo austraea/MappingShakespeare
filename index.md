@@ -4,4 +4,4 @@ feature_text: |
   ## Mapping Shakespearean Adaptation in Asia
 ---
 
-![MSND_Korea](/assets/MSND_Korea.png)
+![MSND_Korea](/assets/MSND_Korea.png){: .mx-auto.d-block :}
