@@ -1,8 +1,10 @@
 ---
 title:
+author: Hyekyung Jung
+date: May 6, 2023
+bibliography: bibliography.bib
 feature_text: |
   ## Bibliography
-bibliography: bibliography.bib
 ---
 
 Here are the lists of bibliographic information for this project and archives about Shakespearean adaptation.
